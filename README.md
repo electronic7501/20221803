@@ -1,6 +1,7 @@
-# 오픈소스 기초설계  _20221803_
+![header](https://capsule-render.vercel.app/api?type=rounded&color=&height=100&section=header&text=오픈소스%20기초설계&fontSize=65)
+
 <hr/>
 
 #### 20221803 이영준
-
-<hr/>
+#
+<div align=center> “This project is licensed under the terms of the MIT license.”</div>
